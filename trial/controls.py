@@ -11,10 +11,10 @@ b = [9, 6, 4, 2]
 for x in b:
     print (x)
 
-count = 0
+count = 1
 c = True
 while c:
-    print ("Hello it is %d o clock." % == count)
+    print ("Hello it is %d o clock." %  count)
     count +=1
     if count== 10:
         break
