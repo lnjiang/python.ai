@@ -1,0 +1,27 @@
+outfile.txt already exists. It was opened with mode of 'w' and thus overwritten.
+ The following lines were copied from the input file. 
+ 
+Double, double toil and trouble;
+Fire burn, and cauldron bubble.
+Fillet of a fenny snake,
+In the cauldron boil and bake;
+Eye of newt, and toe of frog,
+Wool of bat, and tongue of dog,
+Adder's fork, and blind-worm's sting,
+Lizard's leg, and owlet's wing,
+For a charm of powerful trouble,
+Like a hell-broth boil and bubble.
+ 
+outfile.txt already exists. It was opened with mode of 'a'.
+ The following lines were copied from the input file. 
+ 
+Double, double toil and trouble;
+Fire burn, and cauldron bubble.
+Fillet of a fenny snake,
+In the cauldron boil and bake;
+Eye of newt, and toe of frog,
+Wool of bat, and tongue of dog,
+Adder's fork, and blind-worm's sting,
+Lizard's leg, and owlet's wing,
+For a charm of powerful trouble,
+Like a hell-broth boil and bubble.
