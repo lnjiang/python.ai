@@ -6,6 +6,6 @@ def fibonacci (n):
     else:
         return fibonacci (n-1) + fibonacci (n-2)
 
-x = 15
+x = 100
 
 print("the %dth fibonacci number is %d" %(x, fibonacci(x)))
